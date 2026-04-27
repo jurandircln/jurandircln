@@ -3,7 +3,6 @@ Data Lead · Data Engineer · Cloud Engineer
 ---
 
 ## Sobre
-
 Lidero times e iniciativas de dados conectando estratégia de negócio e engenharia para gerar impacto real em indicadores e tomada de decisão.
 
 Atuo na interseção entre tecnologia, produto e negócio — estruturando plataformas analíticas, modelos de dados e pipelines escaláveis que suportam desde a operação até decisões estratégicas. Foco em boas práticas de modelagem, governança e qualidade de dados.
@@ -11,7 +10,6 @@ Atuo na interseção entre tecnologia, produto e negócio — estruturando plata
 ---
 
 ## Stack
-
 **Dados**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -27,7 +25,6 @@ Atuo na interseção entre tecnologia, produto e negócio — estruturando plata
 ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat&logo=googleanalytics&logoColor=white)
 
 **Inteligência Artificial**
-
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logoColor=white)
 ![Agno](https://img.shields.io/badge/Agno-000000?style=flat&logoColor=white)
@@ -36,7 +33,6 @@ Atuo na interseção entre tecnologia, produto e negócio — estruturando plata
 ---
 
 ## Foco atual
-
 - Plataformas analíticas modernas em cloud
 - Modelagem, governança e qualidade de dados
 - DataOps, ETL/ELT e orquestração de pipelines
@@ -46,6 +42,5 @@ Atuo na interseção entre tecnologia, produto e negócio — estruturando plata
 ---
 
 ## Contato
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/jurandirneto)
 [![E-mail](https://img.shields.io/badge/E--mail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:jurandircln@gmail.com)
