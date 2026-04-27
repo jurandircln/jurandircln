@@ -37,11 +37,11 @@ Atuo na interseção entre tecnologia, produto e negócio — estruturando plata
 
 ## Foco atual
 
-- 🏗️ Plataformas analíticas modernas em cloud
-- 📐 Modelagem, governança e qualidade de dados
-- 🔄 DataOps, ETL/ELT e orquestração de pipelines
-- 🤖 RAG, bancos vetoriais e orquestração de agentes de IA
-- 🎯 Liderança técnica e alinhamento entre negócio e times de dados
+- Plataformas analíticas modernas em cloud
+- Modelagem, governança e qualidade de dados
+- DataOps, ETL/ELT e orquestração de pipelines
+- RAG, bancos vetoriais e orquestração de agentes de IA
+- Liderança técnica e alinhamento entre negócio e times de dados
 
 ---
 
