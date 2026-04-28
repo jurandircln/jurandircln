@@ -25,6 +25,7 @@ Atuo na interseção entre tecnologia, produto e negócio — estruturando plata
 ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat&logo=googleanalytics&logoColor=white)
 
 **Inteligência Artificial**
+
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logoColor=white)
 ![Agno](https://img.shields.io/badge/Agno-000000?style=flat&logoColor=white)
