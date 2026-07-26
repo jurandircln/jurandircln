@@ -1,4 +1,4 @@
-Data Lead · Data Engineer · Cloud Engineer
+Data Engineer · Cloud Engineer · AI Engineer 
 
 ---
 
